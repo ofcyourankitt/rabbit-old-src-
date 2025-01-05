@@ -1,1 +1,1 @@
-https://github.com/teamkronix/Rare-Rabbit
+Rare-Rabbit
